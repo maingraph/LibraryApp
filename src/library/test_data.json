@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "year": 2008,
+    "type": "Book"
+  },
+  {
+    "id": 2,
+    "title": "National Geographic",
+    "editor": "Susan Goldberg",
+    "year": 2021,
+    "issueNumber": 5,
+    "type": "Magazine"
+  },
+  {
+    "id": 3,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "year": 2008,
+    "type": "Book"
+  }
+]
